@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/109751694/209487319-4c020afe-7292-4f94-bd77-5e6a85f4c49e.png)
 
 ## DataSet 
-KISTI+IDS2021-CDMC
+KISTI+IDS2021-CDMC https://www.csmining.org/cdmc2021/index.php?id=5
 Description:[153830 records] divided into two parts: a training set [123040 records] and testing set [30790 records]. For the training set contains three features (category, word_vector, label), and for the testing set consists of two features (category, word_vector). For category feature presents the level of the attack, word_vector feature presents the payload words in 100 dimensions for each word, and label feature presents two labels (Malicious [1], benign [2]) with balanced number for each one. There are no null records in the dataset.
 
 ## Methodology
